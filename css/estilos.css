@@ -52,18 +52,17 @@ header h2 {
     padding: 5px;
 }
 /* Estilos para la página horarios */
-#horario{
-    font-family: Arial, Helvetica, sans-serif;
+.horario-inicio{
     text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    font-size: 30px;
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
 }
-#horario p{
-    padding: 5px;
+.accordion{
+    text-align: center;
 }
-#horario h4{
-    margin-top: 20px;
+.horario-1{
+    margin-top: 35px;
 }
 /* Estilos para el formulario */
 .form{
